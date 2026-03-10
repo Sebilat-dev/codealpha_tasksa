@@ -1,5 +1,5 @@
 
- **TASK 3** — Secure Coding Review
+ **TASK 3 — Secure Coding Review**
 
 **Programming Language and Application Selected**
 
@@ -38,6 +38,3 @@ screenshot1_code.png — Code review
 screenshot2_run.png — Program execution
 screenshot3_bandit.png — Static analysis result
 
-screenshot2_run.png — Program execution
-
-screenshot3_bandit.png — Static analysis result
